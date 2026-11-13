@@ -3,7 +3,7 @@
 An interactive knowledge project on **microbes in space**: how microgravity and the spaceflight environment change bacterial growth, biofilms, virulence and antibiotic resistance, and what this means for **astronaut health, medical biotechnology and clinical research**.
 
 > Author: **Vanshika Sharma**, B.Sc. (Hons.) with Research in Biotechnology, Banasthali Vidyapith, Rajasthan
-> Interests: Microbiology · Medical Biotechnology · Clinical Research · Space Science & Medicine
+> Interests: Microbiology , Medical Biotechnology , Clinical Research , Space Science & Medicine
 
 ---
 
